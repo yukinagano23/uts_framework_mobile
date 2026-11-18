@@ -10,9 +10,10 @@ Aplikasi sederhana untuk mencatat, memantau, dan menyelesaikan tugas harian. Dib
 - **Tentang**: informasi aplikasi dan pembuat.
 
 ## Tampilan
-<img width="267" height="554" alt="gambar" src="https://github.com/user-attachments/assets/30f830ef-5a43-44ae-88c9-cc5a46f91df9" />
-<img width="259" height="547" alt="gambar" src="https://github.com/user-attachments/assets/8d388141-1eed-4670-b72b-52ee391d5e0e" />
-<img width="254" height="545" alt="gambar" src="https://github.com/user-attachments/assets/075a4dd8-ac44-4e72-b8d4-913e03a33023" />
+<img width="200" height="424" alt="Tampilan 1" src="https://github.com/user-attachments/assets/436339d2-add7-4a90-934e-2a762ee9749b" />
+<img width="200" height="424" alt="Tampilan 2" src="https://github.com/user-attachments/assets/30f830ef-5a43-44ae-88c9-cc5a46f91df9" />
+<img width="200" height="424" alt="Tampilan 3" src="https://github.com/user-attachments/assets/8d388141-1eed-4670-b72b-52ee391d5e0e" />
+<img width="200" height="424" alt="Tampilan 4" src="https://github.com/user-attachments/assets/075a4dd8-ac44-4e72-b8d4-913e03a33023" />
 
 ## Teknologi
 
